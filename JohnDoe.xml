@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <person>
+        <address>220 McConville Road</address>
+        <amount>125.0</amount>
+        <date>12/12/2018</date>
+        <first>Isaac</first>
+        <goal>0.0</goal>
+        <last>smith</last>
+        <state>VA</state>
+        <telephone>770-296-6438</telephone>
+        <zip>22407</zip>
+    </person>
+    <person>
+        <address>2920 Silver Maple Lane</address>
+        <amount>500.0</amount>
+        <date>12/12/2018</date>
+        <first>Henry</first>
+        <goal>0.0</goal>
+        <last>craig</last>
+        <state>VA</state>
+        <telephone>234-875-2929</telephone>
+        <zip>22407</zip>
+    </person>
+    <person>
+        <address>1971 University Blvd</address>
+        <amount>300.0</amount>
+        <date>12/12/2019</date>
+        <first>John</first>
+        <goal>0.0</goal>
+        <last>patie</last>
+        <state>VA</state>
+        <telephone>220-224-8787</telephone>
+        <zip>22407</zip>
+    </person>
+    <person>
+        <address>1234 Car drive</address>
+        <amount>500.0</amount>
+        <date>25/11/2018</date>
+        <first>Jared</first>
+        <goal>0.0</goal>
+        <last>Henington</last>
+        <state>NE</state>
+        <telephone>305-298-7878</telephone>
+        <zip>29029</zip>
+    </person>
+     <missionary>
+        <first>henry</first>
+        <last>smith></last>
+        <address>1232 lane lane</address>
+        <state>NE</state>
+        <telephone>124-550-1919</telephone>
+        <zip>22234</zip>
+        <goal>8000</goal>
+    </missionary>
+</root>
+

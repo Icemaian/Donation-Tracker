@@ -1,0 +1,37 @@
+.parent 
+{
+    -fx-background-color: #252728;
+}
+
+.dark-pane
+{
+    -fx-background-color: #45515F;
+}
+
+.Button-color
+{
+     
+    -fx-background-color:  #006666;
+}
+
+.Tab-color
+{
+    -fx-background-color: #ac8f39;
+}
+
+.SearchBar-color
+{
+    -fx-background-color: #244242;
+}
+
+.label-bright {
+    -fx-font-size: 16pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+}
+
+.delete-button {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
